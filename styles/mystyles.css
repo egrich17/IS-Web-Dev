@@ -1,0 +1,58 @@
+    body {
+        background-image: url("../images/gingham.jpg");
+    }
+
+    ul {
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+    }
+  
+    ul li {
+        font-family:Verdana, Geneva, Tahoma, sans-serif;
+        color:rgb(5, 88, 57)
+    }
+  
+    p {
+        font-family:Verdana, Geneva, Tahoma, sans-serif;
+        font-weight: 100
+    }
+
+    .section-heading .section-heading-upper {
+    display: block;
+    color: rgb(5, 88, 57);
+    font-size: 1.5rem;
+    font-weight: 700;
+  }
+  .section-heading .section-heading-lower {
+    display: block;
+    font-size: 2rem;
+    font-weight: 100;
+  }
+
+  .site-heading .site-heading-upper {
+    display: block;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(243, 167, 26);
+    font-size: 1.5rem;
+    font-weight: 800;
+  }
+  .site-heading .site-heading-lower {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 5rem;
+    color: rgb(243, 167, 26);
+    font-weight: 200;
+    line-height: 4rem;
+  }
+
+  a {
+    color: rgba(170, 132, 62, 0.856);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    text-decoration: none;
+  }
+
+ .tableaubg {
+     background-color: rgb(201, 182, 201);
+ }
+
+  
+
